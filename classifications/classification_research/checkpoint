@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\duong\\PycharmProjects\\pythonProject2\\classifications\\classification_research\\dog_vs_cat-0.001-8conv-10epoche.model"
+all_model_checkpoint_paths: "C:\\Users\\duong\\PycharmProjects\\pythonProject2\\classifications\\classification_research\\dog_vs_cat-0.001-8conv-10epoche.model"
